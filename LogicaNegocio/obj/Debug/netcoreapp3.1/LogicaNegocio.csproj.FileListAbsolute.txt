@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.deps.json
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.AssemblyInfo.cs
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.csproj.CopyComplete
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\HP\source\repos\EjemploCharla\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.pdb

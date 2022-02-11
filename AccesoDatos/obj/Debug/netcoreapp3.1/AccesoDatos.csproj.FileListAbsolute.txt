@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.deps.json
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.runtimeconfig.json
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.runtimeconfig.dev.json
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfo.cs
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CopyComplete
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\HP\source\repos\EjemploCharla\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.genruntimeconfig.cache
